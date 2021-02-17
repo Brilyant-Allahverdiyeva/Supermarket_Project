@@ -1,0 +1,10 @@
+E:\Allahverdiyeva B\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csprojAssemblyReference.cache
+E:\Allahverdiyeva B\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Form1.resources
+E:\Allahverdiyeva B\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Properties.Resources.resources
+E:\Allahverdiyeva B\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.GenerateResource.cache
+E:\Allahverdiyeva B\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.CoreCompileInputs.cache
+E:\Allahverdiyeva B\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe.config
+E:\Allahverdiyeva B\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe
+E:\Allahverdiyeva B\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.pdb
+E:\Allahverdiyeva B\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.exe
+E:\Allahverdiyeva B\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.pdb
